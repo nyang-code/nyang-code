@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 # 이력서
 ## 소개
 
-<img width="20%" src= https://user-images.githubusercontent.com/85928740/198172714-e2cf5860-7809-4fea-9782-5a5138c04865.jpg>
-
 - 이름 : 양유진
 - 생년월일 : 2001.04.22
 - 전공 : 소프트웨어융합대학 빅데이터전공
