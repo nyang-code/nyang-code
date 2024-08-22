@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - 이메일 : did7121@naver.com
 - 깃허브 : https://nyang-code.github.io/
 
-- curl -O https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
-tar -xf ngrok-stable-windows-amd64.zip
+ngrok config add-authtoken 29SYsboR5LDwBUrqw6ts0nkrLoL_2mQ43suPNPA6GsWoMHVVP
 
 
 
