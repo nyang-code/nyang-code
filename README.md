@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 이메일 : did7121@naver.com
 - 깃허브 : https://nyang-code.github.io/
 
-ngrok config add-authtoken 29SYsboR5LDwBUrqw6ts0nkrLoL_2mQ43suPNPA6GsWoMHVVP
+
 
 # 학교활동
 - 2022년 소프트웨어융합대학 4대 학생회
