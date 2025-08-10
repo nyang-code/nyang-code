@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 이메일 : did7121@naver.com
 - 깃허브 : https://nyang-code.github.io/
 
-29SYsboR5LDwBUrqw6ts0nkrLoL_2mQ43suPNPA6GsWoMHVVP
 
 
 
